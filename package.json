@@ -1,0 +1,24 @@
+{
+  "name": "zookepr",
+  "version": "1.0.0",
+  "description": "express.js / heroku server for a zoo database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfishal/zookepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superfishal/zookepr/issues"
+  },
+  "homepage": "https://github.com/superfishal/zookepr#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
